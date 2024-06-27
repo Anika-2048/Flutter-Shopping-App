@@ -128,7 +128,7 @@ class MyProducts {
       category: 'Furniture',
       price: 16999,
       description: 'Enhance your dining experience with this elegant dining table, perfect for family meals and gatherings.',
-      image: 'https://png.pngtree.com/element_our/20190528/ourmid/pngtree-modern-dining-table-chair-image_1160952.jpg',
+      image: 'https://img.freepik.com/free-psd/kitchen-table-isolated-transparent-background_191095-13975.jpg',
       quantity: 1,
     ),
   ];

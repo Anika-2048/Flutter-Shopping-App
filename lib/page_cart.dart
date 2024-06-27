@@ -90,7 +90,7 @@ class _CartScreenState extends State<CartScreen>{
                               Text(
                                   finalList[index].quantity.toString(),
                                   style: const TextStyle(
-                                    fontSize: 14,
+                                    fontSize: 10,
                                     fontWeight: FontWeight.bold,
                                   )
                               ),
