@@ -1,6 +1,6 @@
 # Shopping App
 
-## Desription
+## Description
 A basic flutter based shopping application powered by Firebase user authentication and features like product lists, product descriptions, add to favorites and add to cart functioanlity.
 
 ## Functioning and UI
