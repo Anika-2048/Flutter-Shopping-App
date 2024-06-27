@@ -6,7 +6,7 @@ A basic flutter based shopping application powered by Firebase user authenticati
 ## Functioning and UI
 ### Login and logout functionality
 Users can login/signup or choose to continue without login/signup, which automatically creates a device specific anonymous account for them.
-<img src="[https://your-image-url.type](https://github.com/Anika-2048/Flutter-Shopping-App/assets/128902230/5193fad6-e9cb-4813-a337-1a8830f66b44) ![image](https://github.com/Anika-2048/Flutter-Shopping-App/assets/128902230/aaaa997d-9c16-4f9a-a3c1-d9290feea1e2)" height="100">
+<img src="[https://your-image-url.type](https://github.com/Anika-2048/Flutter-Shopping-App/assets/128902230/5193fad6-e9cb-4813-a337-1a8830f66b44) ![image](https://github.com/Anika-2048/Flutter-Shopping-App/assets/128902230/aaaa997d-9c16-4f9a-a3c1-d9290feea1e2)" height="1000">
 
 Users can choose to login/logout/signup anytime from the profile page:
 ![image](https://github.com/Anika-2048/Flutter-Shopping-App/assets/128902230/a1fcd313-739d-4e2a-9ace-34ed15812b92) ![image](https://github.com/Anika-2048/Flutter-Shopping-App/assets/128902230/7bf23363-3601-4d9f-bf30-88174001eb4e)
