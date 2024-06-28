@@ -41,7 +41,7 @@ class DefaultFirebaseOptions {
   }
 
   static const FirebaseOptions web = FirebaseOptions(
-    apiKey: 'AIzaSyCBHfG3raGlAzEMQz3mK_5m3GLA5Cc4-PE',
+    apiKey: '#######################################',
     appId: '1:22973581826:web:90752d72e09a17a4dab51b',
     messagingSenderId: '22973581826',
     projectId: 'shopping-core-31991',
@@ -51,7 +51,7 @@ class DefaultFirebaseOptions {
   );
 
   static const FirebaseOptions android = FirebaseOptions(
-    apiKey: 'AIzaSyD9z2uKCBK185RFCxPPuVE3SRcam7OBwdQ',
+    apiKey: '#######################################',
     appId: '1:22973581826:android:3bfbff25610a2e03dab51b',
     messagingSenderId: '22973581826',
     projectId: 'shopping-core-31991',
@@ -59,7 +59,7 @@ class DefaultFirebaseOptions {
   );
 
   static const FirebaseOptions ios = FirebaseOptions(
-    apiKey: 'AIzaSyCyLSkpgYxgXd4oGxxNbBfOCynDadNxDtk',
+    apiKey: '#######################################',
     appId: '1:22973581826:ios:2c0d60beda43c6d4dab51b',
     messagingSenderId: '22973581826',
     projectId: 'shopping-core-31991',
@@ -68,7 +68,7 @@ class DefaultFirebaseOptions {
   );
 
   static const FirebaseOptions macos = FirebaseOptions(
-    apiKey: 'AIzaSyCyLSkpgYxgXd4oGxxNbBfOCynDadNxDtk',
+    apiKey: '#######################################',
     appId: '1:22973581826:ios:2c0d60beda43c6d4dab51b',
     messagingSenderId: '22973581826',
     projectId: 'shopping-core-31991',
@@ -77,7 +77,7 @@ class DefaultFirebaseOptions {
   );
 
   static const FirebaseOptions windows = FirebaseOptions(
-    apiKey: 'AIzaSyCBHfG3raGlAzEMQz3mK_5m3GLA5Cc4-PE',
+    apiKey: '#######################################',
     appId: '1:22973581826:web:db63c8d335bd4b8cdab51b',
     messagingSenderId: '22973581826',
     projectId: 'shopping-core-31991',
